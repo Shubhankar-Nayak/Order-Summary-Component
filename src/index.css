@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "RedHatDisplay";
+  src: local("RedHatDisplay"), url("./fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf") format("truetype");
+}
